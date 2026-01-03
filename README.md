@@ -1,18 +1,12 @@
-# Australia Housing Dashboard
+# Sydney Rental & Livability Dashboard
 
 ## PROJECT GOAL
-Build an end-to-end data pipeline that ingests Australian housing data, transforms it into analytics-ready tables, and serves insights through a dashboard.
+To create a dashboard that can help new Sydney residents to find information on rental prices and livability across Sydney.
 
-### Key questions the pipeline answers:
-- Median price trends by state/suburb
-- Price growth YoY
-- Sales volume vs price
-- House vs apartment comparison
+## Target Audience
+People like me who are currently looking for the best place to live in while staying in Sydney.
 
-
-### Process Steps
-1. Source from publicly available data = Australian Bureau of Statistics (ABS)
-2. Database Design (using PostgreSQL
-3. Data Ingestions
-4. Transformations
-5. Dashboard
+### 3 Main Biz Qs:
+1. How much does it typically cost to live in each suburb?
+2. Which suburbs offer the best value for money?
+3. What is daily life like in each suburb?
